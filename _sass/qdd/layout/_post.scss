@@ -1,0 +1,25 @@
+.post{
+    .post-header{
+        .meta{
+                    
+        }
+    }
+    
+
+    .post-footer{
+        text-align: right;
+        .author-link{
+            text-decoration: none;
+            color: black;
+            
+            .author-image{
+                height: 50px; 
+                border-radius:50px;
+            }
+            .author{
+                margin:0;
+                padding:0 5px; 
+            }
+        }
+    }
+}

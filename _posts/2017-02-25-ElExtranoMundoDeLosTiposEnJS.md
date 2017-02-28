@@ -3,6 +3,9 @@ layout: post
 title:  "El extra\u00F1o mundo de los tipos en javascript (draft)"
 tag: javascript
 lang: es
+author: Alan
+author-email: alan.campora@gmail.com
+author-link: http://twitter.com/alancampora
 categories: #javascript
 ---
 
